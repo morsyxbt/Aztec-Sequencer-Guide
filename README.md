@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨🏻‍💻 **Aztec Sequencer Guide** 👨🏻‍💻
+# **Aztec Sequencer Guide**
 
 </div>
 
