@@ -346,4 +346,4 @@ aztec-up latest
 ![image](https://github.com/user-attachments/assets/b2f16ac1-1caa-4f35-9666-885bc11558d3)
 
 
-Made with ❤️ by Morsyxbt
+**Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
