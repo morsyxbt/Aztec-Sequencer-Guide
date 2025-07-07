@@ -130,30 +130,9 @@ sudo ufw allow 40400
 sudo ufw allow 8080
 ```
 
-# Get Seapolia and Beacon API Key's Free of Cost
+# Get Seapolia and Beacon API Key's
 
-* Go to - https://tinyurl.com/y8v7tm2d
-
-* Manually Sign up with Email address- u will rcvd 100$ voucher- (Dont sign up with Google)
-
-* Select Ethereum Sepolia
-
-* Scroll Down and Select the Growth Plan for which RPC u need, (Sepolia or Beacon) 
-
-* Click on `Select Voucher`
-
-* Select `50$ Voucher`
-
-* Now Click on `Pay with Balance`
-
-* Here we go... U got your API key for free!
-
-* U can see your Api key on API section!
-
-![Screenshot 2025-05-15 172028](https://github.com/user-attachments/assets/409a5c1e-9c2d-4653-a7e0-2e24711d0470)
-
-
-* More Other Sites!
+* Some sites (if you need just dm me i can send more links)
 
 https://drpc.org/dashboard
 
